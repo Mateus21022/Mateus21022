@@ -7,7 +7,7 @@
 </div>
 
 ###
-- 🔭 Atualmente trrabalhando com ...
+- 🔭 Atualmente trabalhando com ...
 ###
 
 ###
