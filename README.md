@@ -7,7 +7,7 @@
 </div>
 
 ###
-- 🔭 Atualmente trabalhando com ...
+- 🔭 Ferramentas ...
 ###
 
 ###
